@@ -58,6 +58,7 @@
 
 /* Begin PBXFileReference section */
 		008851C915CC00E400DBB2AB /* ofxHSpline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ofxHSpline.h; path = ../../../addons/ofxHSpline/src/ofxHSpline.h; sourceTree = SOURCE_ROOT; };
+		0088521A15CC088300DBB2AB /* readme */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = readme; sourceTree = "<group>"; };
 		BBAB23BE13894E4700AA2426 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = ../../../libs/glut/lib/osx/GLUT.framework; sourceTree = "<group>"; };
 		E4328143138ABC890047C5CB /* openFrameworksLib.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = openFrameworksLib.xcodeproj; path = ../../../libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj; sourceTree = SOURCE_ROOT; };
 		E45BE9710E8CC7DD009D7055 /* AGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AGL.framework; path = /System/Library/Frameworks/AGL.framework; sourceTree = "<absolute>"; };
@@ -110,6 +111,7 @@
 			isa = PBXGroup;
 			children = (
 				008851C815CC00E400DBB2AB /* src */,
+				0088521A15CC088300DBB2AB /* readme */,
 			);
 			name = ofxHSpline;
 			path = ../../../addons/ofxHSpline;

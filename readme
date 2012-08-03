@@ -1,0 +1,13 @@
+
+// ofxHSpline - André Sier 2005, 2010
+// hermite spline interpolation in openframeworks
+
+//————————————————————————————————————————————————————————————————
+//hspline - andré sier 2005
+//
+//using hermite splines (less elaborate than b-splines) on a bunch
+//of equally spaced ctrl input points (the stride parameter of the 
+//equation)
+//
+//smooth out path making
+

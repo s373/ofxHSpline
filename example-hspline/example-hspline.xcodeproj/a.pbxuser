@@ -775,8 +775,8 @@
 	008851C915CC00E400DBB2AB /* ofxHSpline.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {587, 1980}}";
-			sepNavSelRange = "{1179, 0}";
-			sepNavVisRange = "{0, 333}";
+			sepNavSelRange = "{1, 343}";
+			sepNavVisRange = "{0, 364}";
 		};
 	};
 	008851D915CC031D00DBB2AB /* PBXTextBookmark */ = {
@@ -794,7 +794,7 @@
 		fRef = 008851C915CC00E400DBB2AB /* ofxHSpline.h */;
 		name = "ofxHSpline.h: 14";
 		rLen = 0;
-		rLoc = 315;
+		rLoc = 347;
 		rType = 0;
 		vrLen = 514;
 		vrLoc = 3353;
@@ -822,7 +822,7 @@
 		fRef = 008851C915CC00E400DBB2AB /* ofxHSpline.h */;
 		name = "ofxHSpline.h: 14";
 		rLen = 0;
-		rLoc = 315;
+		rLoc = 347;
 		rType = 0;
 		vrLen = 244;
 		vrLoc = 1434;
@@ -872,7 +872,7 @@
 		fRef = 008851C915CC00E400DBB2AB /* ofxHSpline.h */;
 		name = "ofxHSpline.h: 83";
 		rLen = 10;
-		rLoc = 1314;
+		rLoc = 1307;
 		rType = 0;
 		vrLen = 455;
 		vrLoc = 0;
@@ -982,7 +982,7 @@
 		fRef = 008851C915CC00E400DBB2AB /* ofxHSpline.h */;
 		name = "ofxHSpline.h: 162";
 		rLen = 0;
-		rLoc = 3220;
+		rLoc = 3204;
 		rType = 0;
 		vrLen = 273;
 		vrLoc = 3116;
@@ -1052,7 +1052,7 @@
 		fRef = 008851C915CC00E400DBB2AB /* ofxHSpline.h */;
 		name = "ofxHSpline.h: 162";
 		rLen = 0;
-		rLoc = 3220;
+		rLoc = 3204;
 		rType = 0;
 		vrLen = 385;
 		vrLoc = 3041;
@@ -1062,7 +1062,7 @@
 		fRef = 008851C915CC00E400DBB2AB /* ofxHSpline.h */;
 		name = "ofxHSpline.h: 74";
 		rLen = 0;
-		rLoc = 1179;
+		rLoc = 1188;
 		rType = 0;
 		vrLen = 333;
 		vrLoc = 0;
