@@ -22,12 +22,13 @@ class testApp : public ofBaseApp{
 		void mouseReleased(int x, int y, int button);
 		void resized(int w, int h);
 
-	
-	
-	ofxHSpline hspline;
-	
 
-	
+
+	ofxHSpline hspline;
+	ofEasyCam cam;
+	bool clear;
+
+
 };
 
 #endif
